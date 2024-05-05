@@ -1,5 +1,5 @@
 # projects
 
-# Author: nastosinka
+## Author: nastosinka
 
-There are projects collected from school and university (in future).
+School projects (and in the future university projects) are collected here.
