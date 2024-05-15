@@ -1,0 +1,21 @@
+monday scheldure:
+- lesson: '1'
+	time: 08:20-09:50
+	subject: Informatics
+	teacher: Boldyreva Elena Alexandrovna
+- lesson: '2'
+	time: 10:00-11:30
+	subject: Informatics
+	teacher: Boldyreva Elena Alexandrovna
+- lesson: '3'
+	time: 11:40-13:10
+	subject: Informatics
+	teacher: Boldyreva Elena Alexandrovna
+- lesson: '4'
+	time: 17:00-18:30
+	subject: Mathematical Analysis
+	teacher: Trifanova Ekaterina Stanislavovna
+- lesson: '5'
+	time: 19:00-20:30
+	subject: Motor sport
+	teacher: Rymar Vladislav Olegovich
